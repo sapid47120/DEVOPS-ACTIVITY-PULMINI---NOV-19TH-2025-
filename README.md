@@ -1,4 +1,4 @@
-ulumi DevOps Activity – Cloud Infrastructure Automation
+pulumi DevOps Activity – Cloud Infrastructure Automation
 
 Subject: DevOps
 Instructor: Sir Sherjeel Gilani
@@ -7,7 +7,8 @@ Section: 6-1
 Student Name: Arslan Tahir
 SAP ID: 47120
 
-📌 Project Overview
+📌
+Project Overview
 
 This repository contains my DevOps practical activity in which I implemented Infrastructure-as-Code (IaC) using Pulumi.
 The project follows the concepts demonstrated in the video:
